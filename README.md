@@ -1,3 +1,6 @@
+
+
+
 # CSE310 Mini LLM Prototype
 
 This is a compact, document-grounded study assistant. Given `.txt`, `.md`, `.doc`, or `.docx` study notes, it opens a conversational session where you can request study topics, ask factual questions, or take a practice quiz one question at a time. It also retains a small word-to-word language-model demonstration for learning purposes.

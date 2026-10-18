@@ -1,7 +1,68 @@
 
 
 
-# CSE310 Mini LLM Prototype
+# Physiology Study Assistant
+
+This project is a small language-model study assistant. It uses notes and training text to answer questions, connect related terms, and create practice quizzes.
+
+## Instructions for Build and Use
+
+Steps to build and/or run the software:
+
+1. Install Python 3.10 or newer.
+2. Open PowerShell in the project folder.
+3. Run `py mini_llm.py` or `study.cmd path\to\notes.txt`.
+
+Instructions for using the software:
+
+1. Run the study mode with a `.txt` or `.md` notes file.
+2. Ask questions about terms from the notes or request a quiz.
+3. Type `quit` to close the program.
+4. Run `py -m unittest discover -s tests -v` to run the tests.
+
+## Development Environment
+
+To recreate the development environment, you need the following software and/or libraries with the specified versions:
+
+* Python 3.10 or newer
+* PowerShell or another terminal
+* Git and GitHub
+* The project mainly uses Python's standard library, so extra packages are not required.
+
+## Useful Websites to Learn More
+
+I found these websites useful in developing this software:
+
+* [Python Documentation](https://docs.python.org/3/)
+* [Andrej Karpathy's Neural Network Series](https://karpathy.ai/zero-to-hero.html)
+* [LanguageTool Documentation](https://dev.languagetool.org/http-server)
+* [Project Gutenberg](https://www.gutenberg.org/)
+
+## Future Work
+
+The following items I plan to fix, improve, and/or add to this project in the future:
+
+* [ ] Improve the autocorrect and related-term matching.
+* [ ] Add a larger neural network trained with backpropagation.
+* [ ] Improve the ranking of relevant sentences from the notes.
+* [ ] Add more physiology study cards and accuracy tests.
+* [ ] Create a simple web or desktop chat interface.
+* [ ] Add support for more note formats later.
+
+
+
+
+
+
+
+
+
+## Below this point was the previous README
+
+
+
+
+
 
 This is a compact, document-grounded study assistant. Given `.txt`, `.md`, `.doc`, or `.docx` study notes, it opens a conversational session where you can request study topics, ask factual questions, or take a practice quiz one question at a time. It also retains a small word-to-word language-model demonstration for learning purposes.
 

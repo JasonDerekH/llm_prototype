@@ -1,0 +1,177 @@
+[
+  {
+    "topic": "Homeostasis",
+    "question": "What is homeostasis?",
+    "answer": "Homeostasis is the regulated stability of the internal environment. A sensor measures a variable, a control center compares it with a target range, and an effector produces a response.",
+    "keywords": ["homeostasis", "sensor", "control", "effector", "feedback"],
+    "source": "BIO 461 topic 1.1: Homeostasis"
+  },
+  {
+    "topic": "Homeostasis",
+    "question": "How does negative feedback work?",
+    "answer": "Negative feedback opposes a deviation from a regulated range. The response reduces the original stimulus, such as lowering blood glucose after it rises.",
+    "keywords": ["negative", "feedback", "regulated", "stimulus", "glucose"],
+    "source": "BIO 461 topic 1.1.3: Feedback Response Loop"
+  },
+  {
+    "topic": "Membranes",
+    "question": "What is the difference between diffusion and active transport?",
+    "answer": "Diffusion moves a substance down its electrochemical gradient without direct cellular energy. Active transport uses energy to move a substance against a gradient.",
+    "keywords": ["diffusion", "active", "transport", "gradient", "energy"],
+    "source": "BIO 461 topics 1.2.2-1.2.4: Water, Solutes, and Transport"
+  },
+  {
+    "topic": "Membranes",
+    "question": "What does the sodium-potassium pump do?",
+    "answer": "The sodium-potassium pump uses ATP to move sodium out of the cell and potassium into the cell, maintaining ion gradients used for membrane signaling.",
+    "keywords": ["sodium", "potassium", "pump", "atp", "ion", "gradient"],
+    "source": "BIO 461 topics 1.2 and 1.3: Cell Transport and Electrophysiology"
+  },
+  {
+    "topic": "Electrophysiology",
+    "question": "What is a resting membrane potential?",
+    "answer": "The resting membrane potential is the voltage difference across an unstimulated cell membrane. It results from ion gradients, selective permeability, and the sodium-potassium pump.",
+    "keywords": ["resting", "membrane", "potential", "voltage", "permeability"],
+    "source": "BIO 461 topics 1.3.1-1.3.2: Ions and Membrane Potentials"
+  },
+  {
+    "topic": "Electrophysiology",
+    "question": "What happens during an action potential?",
+    "answer": "After threshold is reached, voltage-gated sodium channels produce rapid depolarization. Voltage-gated potassium channels then help repolarize the membrane, followed by recovery toward rest.",
+    "keywords": ["action", "potential", "threshold", "sodium", "potassium", "depolarization", "repolarization"],
+    "source": "BIO 461 topics 1.3.3-1.3.6: Graded Potentials and Action Potentials"
+  },
+  {
+    "topic": "Synapses",
+    "question": "How does a chemical synapse transmit a signal?",
+    "answer": "An arriving action potential opens calcium channels in the presynaptic terminal. Calcium triggers neurotransmitter release, and the neurotransmitter binds receptors on the postsynaptic cell.",
+    "keywords": ["synapse", "calcium", "neurotransmitter", "presynaptic", "postsynaptic"],
+    "source": "BIO 461 topic 1.4: The Synapse"
+  },
+  {
+    "topic": "Autonomic Nervous System",
+    "question": "How do the sympathetic and parasympathetic divisions differ?",
+    "answer": "The sympathetic division generally supports activity, alertness, and mobilization of energy. The parasympathetic division generally supports rest, digestion, and energy conservation.",
+    "keywords": ["sympathetic", "parasympathetic", "autonomic", "rest", "digestion", "energy"],
+    "source": "BIO 461 topics 1.5.1-1.5.5: Organization and Physiology of the ANS"
+  },
+  {
+    "topic": "Skeletal Muscle",
+    "question": "What is excitation-contraction coupling?",
+    "answer": "Excitation-contraction coupling connects a muscle action potential to force production. The signal travels along the sarcolemma and T-tubules, causes calcium release from the sarcoplasmic reticulum, and allows actin-myosin interaction.",
+    "keywords": ["excitation", "contraction", "coupling", "sarcolemma", "tubule", "calcium", "muscle"],
+    "source": "BIO 461 topics 2.1-2.2: Muscle Fiber Anatomy and Contraction"
+  },
+  {
+    "topic": "Skeletal Muscle",
+    "question": "What do DHP and RYR do in skeletal muscle?",
+    "answer": "The DHP receptor detects voltage in the T-tubule membrane and communicates with the RYR calcium-release channel in the sarcoplasmic reticulum. RYR opening raises cytosolic calcium so contraction can begin.",
+    "keywords": ["dhp", "dihydropyridine", "ryr", "ryanodine", "calcium", "tubule"],
+    "source": "BIO 461 topics 2.1.2 and 2.2.1: T-Tubules and Excitation-Contraction Coupling"
+  },
+  {
+    "topic": "Skeletal Muscle",
+    "question": "How does calcium cause a skeletal muscle fiber to contract?",
+    "answer": "Calcium binds troponin, which shifts tropomyosin away from actin binding sites. Myosin can then bind actin and use ATP to cycle through force-producing cross-bridges.",
+    "keywords": ["calcium", "troponin", "tropomyosin", "actin", "myosin", "atp", "cross", "bridge"],
+    "source": "BIO 461 topic 2.2.1: Excitation-Contraction Coupling"
+  },
+  {
+    "topic": "Skeletal Muscle",
+    "question": "What ends acetylcholine signaling at the neuromuscular junction?",
+    "answer": "Acetylcholinesterase breaks acetylcholine down in the synaptic cleft. This terminates receptor stimulation and helps end the muscle-fiber signal; it does not directly stop an action potential that is already propagating.",
+    "keywords": ["acetylcholinesterase", "ache", "acetylcholine", "neuromuscular", "junction"],
+    "source": "BIO 461 topics 1.4 and 2.2.1: Synapses and the Neuromuscular Junction"
+  },
+  {
+    "topic": "Skeletal Muscle",
+    "question": "What is the difference between isometric and isotonic contraction?",
+    "answer": "An isometric contraction produces tension without changing muscle length. An isotonic contraction changes muscle length while the muscle produces force.",
+    "keywords": ["isometric", "isotonic", "contraction", "tension", "length"],
+    "source": "BIO 461 topic 2.3: Whole Muscle Contraction"
+  },
+  {
+    "topic": "Cardiovascular",
+    "question": "What is cardiac output?",
+    "answer": "Cardiac output is the volume of blood pumped by one ventricle per minute. It equals heart rate multiplied by stroke volume.",
+    "keywords": ["cardiac", "output", "heart", "rate", "stroke", "volume"],
+    "source": "BIO 461 topics 3.1-3.4: Heart Structure and the Cardiac Cycle"
+  },
+  {
+    "topic": "Cardiovascular",
+    "question": "What are preload, afterload, and contractility?",
+    "answer": "Preload reflects ventricular filling before contraction. Afterload is the pressure the ventricle must overcome to eject blood. Contractility is the strength of contraction at a given preload.",
+    "keywords": ["preload", "afterload", "contractility", "ventricle", "eject"],
+    "source": "BIO 461 topic 3.4.2: Cardiac Measurements and Pressure-Volume Loops"
+  },
+  {
+    "topic": "Cardiovascular",
+    "question": "How is blood pressure regulated?",
+    "answer": "Blood pressure depends mainly on cardiac output and systemic vascular resistance. Baroreceptors sense arterial stretch, while autonomic and hormonal responses adjust heart activity and vessel diameter.",
+    "keywords": ["blood", "pressure", "baroreceptor", "cardiac", "resistance", "vascular"],
+    "source": "BIO 461 topics 3.5.1-3.5.5: Blood Vessels and Blood Pressure"
+  },
+  {
+    "topic": "Blood",
+    "question": "What is hemostasis?",
+    "answer": "Hemostasis limits blood loss through coordinated vascular responses, platelet activity, and formation of a fibrin clot.",
+    "keywords": ["hemostasis", "platelet", "fibrin", "clot", "blood"],
+    "source": "BIO 461 topic 3.6.4: Hemostasis"
+  },
+  {
+    "topic": "Kidney",
+    "question": "What are the three basic processes of urine production?",
+    "answer": "Filtration moves fluid from glomerular capillaries into the nephron. Reabsorption returns selected substances to the blood. Secretion moves selected substances from blood into tubular fluid.",
+    "keywords": ["kidney", "filtration", "reabsorption", "secretion", "urine", "nephron"],
+    "source": "BIO 461 topics 4.1-4.2: Kidney Function and Urine Production"
+  },
+  {
+    "topic": "Kidney",
+    "question": "How does ADH affect the kidney?",
+    "answer": "ADH increases water permeability in the collecting ducts, allowing more water to move back into the blood and producing a more concentrated urine when the body needs to conserve water.",
+    "keywords": ["adh", "antidiuretic", "hormone", "water", "collecting", "duct"],
+    "source": "BIO 461 topic 4.2.5: Hormonal Regulation of Urine Production"
+  },
+  {
+    "topic": "Kidney",
+    "question": "How do the kidneys help regulate acid-base balance?",
+    "answer": "The kidneys excrete acids, conserve or generate bicarbonate, and adjust urinary ion composition. These slower mechanisms complement respiratory control of carbon dioxide.",
+    "keywords": ["kidney", "acid", "base", "bicarbonate", "respiratory", "ph"],
+    "source": "BIO 461 topic 4.3: Acid/Base Balance"
+  },
+  {
+    "topic": "Respiratory",
+    "question": "What determines airflow during breathing?",
+    "answer": "Airflow follows pressure gradients. During inspiration, thoracic volume increases and alveolar pressure falls below atmospheric pressure; during quiet expiration, elastic recoil reverses the gradient.",
+    "keywords": ["airflow", "inspiration", "expiration", "pressure", "alveolar", "thoracic"],
+    "source": "BIO 461 topics 4.4.1-4.4.3: Respiratory Structure and Pressures"
+  },
+  {
+    "topic": "Respiratory",
+    "question": "How are oxygen and carbon dioxide transported?",
+    "answer": "Most oxygen travels bound to hemoglobin. Most carbon dioxide is carried as bicarbonate, with smaller amounts dissolved in plasma or bound to proteins.",
+    "keywords": ["oxygen", "carbon", "dioxide", "hemoglobin", "bicarbonate", "transport"],
+    "source": "BIO 461 topics 4.5.1-4.5.4: Gas Laws and Gas Transport"
+  },
+  {
+    "topic": "Endocrine",
+    "question": "How do peptide and steroid hormones differ?",
+    "answer": "Peptide hormones usually bind cell-surface receptors and activate intracellular signaling pathways. Steroid hormones can cross the membrane and often alter gene transcription through intracellular receptors.",
+    "keywords": ["peptide", "steroid", "hormone", "receptor", "membrane", "gene"],
+    "source": "BIO 461 topics 5.4.1-5.4.3: Endocrine System and Hormone Receptors"
+  },
+  {
+    "topic": "Endocrine",
+    "question": "How do insulin and glucagon work together?",
+    "answer": "Insulin generally lowers blood glucose by promoting uptake and storage after a meal. Glucagon generally raises blood glucose by promoting release and production during fasting.",
+    "keywords": ["insulin", "glucagon", "glucose", "blood", "pancreas", "fasting"],
+    "source": "BIO 461 topics 5.6 and 5.6.1: Pancreas and Blood Glucose"
+  },
+  {
+    "topic": "Endocrine",
+    "question": "What is the role of the hypothalamus and pituitary?",
+    "answer": "The hypothalamus links neural and endocrine regulation. It controls pituitary activity, and pituitary hormones regulate growth, reproduction, thyroid activity, adrenal activity, and water balance.",
+    "keywords": ["hypothalamus", "pituitary", "endocrine", "hormone", "thyroid", "adrenal"],
+    "source": "BIO 461 topics 5.5.1-5.5.7: Hypothalamus and Pituitary Gland"
+  }
+]

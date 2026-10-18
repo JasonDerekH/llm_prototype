@@ -1,0 +1,208 @@
+computer science is the study of computation and information.
+software is built by breaking a large problem into smaller problems.
+data helps a program make decisions and learn from examples.
+an artificial intelligence system receives input and produces output.
+language models learn patterns from sequences of tokens.
+tokens can be words, pieces of words, or characters.
+training adjusts a model so that likely next tokens receive higher scores.
+an llm does not understand the world exactly like a person does.
+an llm generates text by predicting what comes next.
+good evaluation compares generated answers with clear examples.
+
+PHYSIOLOGY STUDY CORPUS
+
+homeostasis is the maintenance of a relatively stable internal environment.
+negative feedback reduces a change and moves a variable toward its set point.
+positive feedback amplifies a change until a specific event is complete.
+membranes separate fluid compartments and regulate movement between compartments.
+diffusion moves particles down a concentration gradient.
+osmosis is the movement of water across a selectively permeable membrane.
+facilitated diffusion uses a membrane protein but does not directly require cellular energy.
+active transport uses energy to move a substance against its electrochemical gradient.
+the sodium potassium pump moves sodium out of a cell and potassium into a cell.
+bulk transport moves large materials by endocytosis or exocytosis.
+the resting membrane potential depends on ion gradients and selective membrane permeability.
+graded potentials vary in size and decrease with distance.
+an action potential is an all or none change in membrane voltage.
+voltage gated sodium channels open during the rising phase of an action potential.
+voltage gated potassium channels help restore the membrane toward its resting voltage.
+the refractory period limits the frequency of action potentials and supports one way propagation.
+the synapse is a junction where a neuron communicates with another cell.
+calcium entry into a presynaptic terminal triggers neurotransmitter release.
+acetylcholinesterase breaks down acetylcholine in the synaptic cleft.
+the autonomic nervous system regulates involuntary visceral functions.
+the sympathetic division supports activity associated with fight or flight.
+the parasympathetic division supports rest digestion and energy conservation.
+neurotransmitters produce effects by binding to receptors on a target cell.
+ligand gated channels open when a chemical messenger binds to them.
+muscle fibers contain myofibrils made of repeating sarcomeres.
+actin and myosin interact to produce skeletal muscle contraction.
+the neuromuscular junction connects a motor neuron to a skeletal muscle fiber.
+acetylcholine released at the neuromuscular junction binds receptors on the motor end plate.
+the action potential travels along the sarcolemma and into the t tubules.
+the sarcoplasmic reticulum stores calcium used for muscle contraction.
+the dihydropyridine receptor is a voltage sensor in the t tubule membrane.
+DHP is the common abbreviation for the dihydropyridine receptor.
+DHP activates RYR during excitation contraction coupling and helps release calcium.
+the ryanodine receptor releases calcium from the sarcoplasmic reticulum.
+RYR is the common abbreviation for the ryanodine receptor.
+the dihydropyridine receptor activates the ryanodine receptor during excitation contraction coupling.
+calcium binds troponin and moves tropomyosin away from actin binding sites.
+atp binding and hydrolysis power cycling of myosin cross bridges.
+calcium is returned to the sarcoplasmic reticulum during muscle relaxation.
+motor units determine how many muscle fibers are activated by a motor neuron.
+slow oxidative fibers resist fatigue and support endurance activity.
+fast glycolytic fibers produce high force but fatigue more quickly.
+smooth muscle does not use sarcomeres arranged like skeletal muscle.
+vision begins when light is focused onto photoreceptors in the retina.
+photoreceptors convert light into changes in membrane potential.
+rods are sensitive in dim light and cones support color vision.
+the cochlea converts sound vibrations into neural signals.
+the vestibular system detects head movement and contributes to balance.
+the heart has right and left sides that support pulmonary and systemic circulation.
+the right ventricle pumps blood toward the lungs.
+the left ventricle pumps blood into the systemic circulation.
+cardiac valves maintain one way movement of blood through the heart.
+the cardiac cycle includes filling and ejection phases.
+cardiac output equals heart rate multiplied by stroke volume.
+the sinoatrial node normally initiates the heartbeat.
+the atrioventricular node delays conduction before the signal enters the ventricles.
+an electrocardiogram records electrical activity associated with cardiac excitation.
+arteries carry blood away from the heart and veins return blood toward the heart.
+capillaries are thin vessels where exchange occurs between blood and tissues.
+blood pressure depends on cardiac output and systemic vascular resistance.
+baroreceptors detect changes in arterial stretch and help regulate blood pressure.
+blood plasma is the fluid portion of blood.
+red blood cells transport oxygen using hemoglobin.
+white blood cells participate in immune defense.
+platelets and clotting proteins contribute to hemostasis.
+the kidneys regulate water electrolytes acid base balance and waste removal.
+the nephron is the functional unit of the kidney.
+filtration begins when pressure moves fluid from glomerular capillaries into bowman's capsule.
+tubular reabsorption returns useful substances from tubular fluid to the blood.
+tubular secretion moves selected substances from blood into tubular fluid.
+antidiuretic hormone increases water reabsorption in the collecting ducts.
+ADH is the common abbreviation for antidiuretic hormone.
+the respiratory system moves air and exchanges oxygen and carbon dioxide.
+alveoli provide a large surface area for gas exchange.
+surfactant reduces surface tension and helps prevent alveolar collapse.
+oxygen diffuses from alveoli into pulmonary capillary blood.
+carbon dioxide diffuses from blood into alveolar air.
+ventilation is the movement of air into and out of the lungs.
+perfusion is blood flow through pulmonary capillaries.
+the ventilation perfusion ratio affects the efficiency of gas exchange.
+the digestive system breaks food into absorbable molecules.
+the enteric nervous system helps coordinate digestive tract activity.
+carbohydrates are digested into simple sugars.
+proteins are digested into amino acids and small peptides.
+lipids are digested into fatty acids and monoglycerides.
+the endocrine system uses hormones to coordinate distant target cells.
+water soluble hormones usually bind receptors on the cell membrane.
+lipid soluble hormones often cross the membrane and bind intracellular receptors.
+the hypothalamus links nervous and endocrine regulation.
+the pituitary gland releases hormones that regulate other endocrine organs.
+insulin lowers blood glucose by promoting glucose uptake and storage.
+glucagon raises blood glucose by promoting glucose release into the blood.
+the reproductive system produces gametes and supports reproduction.
+the hypothalamus and pituitary regulate reproductive endocrine axes.
+fertilization occurs when a sperm cell and an oocyte combine genetic material.
+physiology connects cellular mechanisms with the function of tissues organs and organ systems.
+
+ADDITIONAL PHYSIOLOGY CONTEXT
+
+homeostasis depends on sensors control centers and effectors working together.
+a controlled variable is measured by a receptor and compared with a desired range.
+the response of a control system depends on the stimulus the sensor and the effector.
+temperature blood glucose blood pressure and blood calcium are examples of regulated variables.
+compartments of the body include intracellular fluid and extracellular fluid.
+extracellular fluid includes interstitial fluid and plasma.
+electrochemical gradients combine concentration differences with electrical forces.
+ion channels may be leak gated ligand gated or voltage gated.
+membrane permeability determines which ions most strongly influence membrane voltage.
+depolarization makes the inside of a cell less negative.
+hyperpolarization makes the inside of a cell more negative.
+threshold is the membrane voltage at which an action potential is triggered.
+action potentials propagate without decreasing in size along an excitable membrane.
+saltatory conduction allows an action potential to move rapidly between nodes of ranvier.
+myelin electrically insulates an axon and increases conduction speed.
+excitatory postsynaptic potentials increase the chance of a postsynaptic action potential.
+inhibitory postsynaptic potentials decrease the chance of a postsynaptic action potential.
+temporal summation combines repeated signals from one presynaptic source.
+spatial summation combines signals arriving from multiple synapses.
+the adrenal medulla releases epinephrine and norepinephrine during sympathetic activation.
+many autonomic pathways use acetylcholine at the preganglionic synapse.
+most sympathetic postganglionic neurons release norepinephrine at their target organs.
+parasympathetic postganglionic neurons commonly release acetylcholine.
+receptor type and target tissue determine the effect of a neurotransmitter.
+
+skeletal muscle contraction begins with excitation of a motor neuron.
+an end plate potential is produced when acetylcholine activates receptors on the muscle fiber.
+the muscle action potential travels across the sarcolemma and down the t tubules.
+the t tubule voltage change is detected by the dihydropyridine receptor.
+the dihydropyridine receptor communicates with the ryanodine receptor in the sarcoplasmic reticulum.
+ryanodine receptor opening increases cytosolic calcium near the contractile proteins.
+cross bridge cycling continues while calcium exposes binding sites and atp is available.
+the power stroke moves the thin filament toward the center of the sarcomere.
+muscle tension depends on cross bridge number and the length of the sarcomere.
+isometric contraction produces force without changing muscle length.
+isotonic contraction changes muscle length while producing force.
+frequency summation occurs when a second stimulus arrives before complete relaxation.
+tetanus is a sustained high tension produced by rapid repeated stimulation.
+muscle fatigue can involve energy depletion altered ion gradients and reduced excitation.
+creatine phosphate provides a rapid short term source for regenerating atp.
+aerobic metabolism supports longer activity when oxygen delivery is sufficient.
+
+the cardiac muscle action potential has a prolonged plateau phase.
+the plateau helps prevent cardiac tetanus and allows the heart to fill and pump rhythmically.
+autorhythmic cells generate spontaneous electrical activity.
+the pacemaker potential gradually reaches threshold in autorhythmic cells.
+the cardiac conduction sequence is sinoatrial node atrioventricular node bundle branches and purkinje fibers.
+preload describes ventricular filling and is related to end diastolic volume.
+afterload is the pressure the ventricle must overcome to eject blood.
+contractility describes the strength of contraction at a given preload.
+stroke volume is end diastolic volume minus end systolic volume.
+the frank starling relationship links increased filling with increased contraction force within limits.
+sympathetic stimulation increases heart rate and contractility.
+parasympathetic stimulation mainly slows the heart through the sinoatrial and atrioventricular nodes.
+mean arterial pressure is influenced by cardiac output and systemic vascular resistance.
+arterioles are important resistance vessels that regulate tissue blood flow.
+vasoconstriction increases resistance and vasodilation decreases resistance.
+local metabolites can increase blood flow to active tissues.
+capillary filtration and reabsorption are influenced by hydrostatic and osmotic forces.
+
+the nephron includes a renal corpuscle a proximal tubule a loop of henle a distal tubule and a collecting duct.
+glomerular filtration is influenced by hydrostatic pressure and the filtration barrier.
+the proximal tubule reabsorbs much of the filtered water and solute load.
+the loop of henle helps create a medullary osmotic gradient.
+the distal tubule and collecting duct adjust electrolyte and water balance.
+aldosterone increases sodium reabsorption and potassium secretion in selected nephron segments.
+antidiuretic hormone increases collecting duct water permeability.
+the renin angiotensin aldosterone system supports blood pressure and extracellular fluid volume.
+the kidneys help regulate blood ph by excreting acid and conserving bicarbonate.
+respiratory and renal systems work together to regulate acid base balance.
+
+air moves because of pressure differences between the atmosphere and alveoli.
+inspiration occurs when thoracic volume increases and alveolar pressure falls.
+expiration at rest is mainly caused by elastic recoil of the lungs and chest wall.
+lung compliance describes how easily the lungs expand.
+surfactant improves compliance by reducing the tendency of alveoli to collapse.
+oxygen is transported mainly bound to hemoglobin.
+carbon dioxide is transported mainly as bicarbonate in the blood.
+carbon dioxide and hydrogen ions influence hemoglobin oxygen binding.
+central and peripheral chemoreceptors help regulate ventilation.
+the medulla and pons coordinate the pattern of breathing.
+
+the liver processes absorbed nutrients and produces bile.
+the pancreas releases digestive enzymes and bicarbonate into the small intestine.
+the small intestine is the primary site of nutrient digestion and absorption.
+the large intestine absorbs water and forms feces.
+the endocrine response is often slower than a neural response but can last longer.
+steroid hormones are synthesized from cholesterol and often alter gene transcription.
+peptide hormones commonly activate second messenger pathways.
+the hypothalamus controls pituitary function through releasing and inhibiting hormones.
+the anterior pituitary releases tropic hormones that regulate target endocrine glands.
+the posterior pituitary releases oxytocin and antidiuretic hormone made in the hypothalamus.
+thyroid hormones increase the metabolic activity of many tissues.
+cortisol supports metabolism and helps coordinate longer term stress responses.
+insulin and glucagon provide opposing regulation of blood glucose.
+negative feedback commonly regulates endocrine axes.
